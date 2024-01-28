@@ -33,6 +33,9 @@ class App extends React.Component {
             <span>ADVICE DEDO!</span>
           </button>
         </div>
+        <div className="bottom-text">
+          <p>Made by Pree</p>
+        </div>
       </div>
     );
   }
