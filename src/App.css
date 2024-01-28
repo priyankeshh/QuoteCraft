@@ -32,6 +32,7 @@
     display: flex;
     align-items: center;
     height: 582px;
+    font-family: 'Kanit', sans-serif;   
   }
   
   .button {
@@ -108,6 +109,7 @@
     bottom: 10px;
     right: 10px;
     color: #fff; 
+    font-family: 'Kanit', sans-serif; 
   }
   
 
